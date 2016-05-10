@@ -1,0 +1,12 @@
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\bin\Debug\WIC.exe.config
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.csprojResolveAssemblyReference.cache
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.About.resources
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.CurrentInterface.resources
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.Form1.resources
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.NewInterface.resources
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.Properties.Resources.resources
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.csproj.GenerateResource.Cache
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\bin\Debug\WIC.exe
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\bin\Debug\WIC.pdb
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.exe
+c:\users\ivo_p\onedrive\documentos\visual studio 2015\Projects\WIC\WIC\obj\Debug\WIC.pdb
